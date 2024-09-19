@@ -583,3 +583,43 @@ body {
         padding-bottom: 4vh;
     }
 }
+#dynamic-js{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+#dynamic-js button{
+    background-color: antiquewhite;
+    font-size: 1.7vw;
+    border-radius: 25px;
+    padding-inline: 1vw;
+    border: 1px solid #dc8118cb;
+}
+#dynamic-js a{
+    color: #dc8118cb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
