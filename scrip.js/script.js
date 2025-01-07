@@ -3,7 +3,7 @@ const addSkill = document.getElementById("Add");
 const removekill = document.getElementById("Remove");
 var coun = 1;
 
- 
+
 addSkill.addEventListener("click", () => {
     const barSkill = document.createElement("div");
     barSkill.className = "bar-skill";
